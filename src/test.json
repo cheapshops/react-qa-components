@@ -1,0 +1,42 @@
+{
+  "question": {
+    "id": 1,
+    "category": "Sales Enablement",
+    "subCategory": "Product Marketing",
+    "question": "What are your biggest challenges in enabling global sales teams, and how do you overcome them?"
+  },
+  "answers": [
+    {
+      "answer": "The important word in this question is the challenges of scaling enablement efforts across the world are primarily across 3 buckets: ",
+      "name": "Ryan Fleisch",
+      "designation": "Designation 1"
+    },
+    {
+      "answer": "This is particularly relevant to Visa given our global nature and the 200+ countries we operate in. The biggest challenge I encounter is how unique each country / market is, and by extension how that influences the customer mindset an",
+      "name": "Name 2",
+      "designation": "Designation 2",
+      "answers": [
+        {
+          "answer": "The important word in this question is the challenges of scaling enablement efforts across the world are primarily across 3 buckets: ",
+          "name": "Ryan Fleisch",
+          "designation": "Designation 1"
+        },
+        {
+          "answer": "This is particularly relevant to Visa given our global nature and the 200+ countries we operate in. The biggest challenge I encounter is how unique each country / market is, and by extension how that influences the customer mindset an",
+          "name": "Name 2",
+          "designation": "Designation 2"
+        }
+      ]
+    },
+    {
+      "answer": "Regarding enabling sales teams in general, please check out ",
+      "name": "Ajit Ghuman",
+      "designation": "Designation 3"
+    },
+    {
+      "answer": "Enablement tactics and tools that work for a team of 50 reps need to be adjus",
+      "name": "Daniel Kuperman ",
+      "designation": "Designation 4"
+    }
+  ]
+}

@@ -1,7 +1,11 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
 }
 
+.main-content {
+  width: "80%";
+  margin: 0 auto;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +39,20 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.ant-layout-content {
+  padding: 20px;
+}
+
+.block-question {
+  border: 1px solid gray;
+  padding: 10px;
+  box-shadow: 0 1px 4px 0 gray;
+}
+
+.block-answer {
+  padding: 10px;
+  box-shadow: 0 1px 4px 0 gray;
+  margin-bottom: 10px;
 }
